@@ -1,0 +1,5 @@
+x = input()
+ism, son = x.split()
+son = int(son)
+result =  ' '.join([ism] * son)
+print(result)
