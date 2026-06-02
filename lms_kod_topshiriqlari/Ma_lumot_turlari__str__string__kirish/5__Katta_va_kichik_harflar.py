@@ -1,0 +1,5 @@
+x = input()
+bir = x.upper()
+b1r = x.lower()
+print(bir)
+print(b1r)
