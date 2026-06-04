@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+l = int(input())
+lst.remove(l)
+print(lst)
