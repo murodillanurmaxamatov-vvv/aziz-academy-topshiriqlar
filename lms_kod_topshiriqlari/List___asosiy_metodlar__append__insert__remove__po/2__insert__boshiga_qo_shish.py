@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+l = int(input())
+lst.insert(0, l)
+print(lst)
