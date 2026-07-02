@@ -1,0 +1,1 @@
+print('Birinchi dasturim: Salom, dunyo')
