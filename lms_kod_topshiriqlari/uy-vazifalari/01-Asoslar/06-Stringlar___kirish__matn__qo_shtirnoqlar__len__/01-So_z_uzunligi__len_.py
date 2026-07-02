@@ -1,1 +1,1 @@
-print(inn)
+print('inn')
