@@ -1,1 +1,2 @@
-print('aaa')
+print("Faol: True")
+print("Tasdiqlangan: False")
