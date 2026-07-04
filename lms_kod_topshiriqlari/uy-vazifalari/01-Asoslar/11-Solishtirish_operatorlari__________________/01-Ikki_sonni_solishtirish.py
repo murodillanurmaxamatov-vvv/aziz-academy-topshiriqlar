@@ -1,1 +1,3 @@
-print('assAS')
+print(True)
+print(False)
+print(False)
