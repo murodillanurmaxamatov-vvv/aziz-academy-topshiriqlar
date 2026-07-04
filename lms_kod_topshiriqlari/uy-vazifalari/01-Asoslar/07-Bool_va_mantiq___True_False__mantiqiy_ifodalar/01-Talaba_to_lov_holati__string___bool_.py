@@ -1,1 +1,2 @@
-print('dfghj')
+print("Talaba: Aziz")
+print("To'lov qilingan: False")
