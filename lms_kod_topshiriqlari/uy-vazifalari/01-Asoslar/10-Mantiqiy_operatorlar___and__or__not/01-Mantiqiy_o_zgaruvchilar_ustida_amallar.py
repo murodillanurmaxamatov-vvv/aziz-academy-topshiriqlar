@@ -1,1 +1,3 @@
-print("aFD ASF")
+print(False)
+print(True)
+print(False)
