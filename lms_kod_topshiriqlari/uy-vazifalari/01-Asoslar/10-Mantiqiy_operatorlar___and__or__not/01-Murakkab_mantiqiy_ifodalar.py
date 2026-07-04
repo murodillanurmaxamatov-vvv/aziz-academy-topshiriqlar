@@ -1,1 +1,3 @@
-print("qweRTYu")
+print(True)
+print(False)
+print(False)
