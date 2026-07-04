@@ -1,1 +1,2 @@
-print(20)
+print("Yosh: 20")
+print("Bo'yi: 1.75")
