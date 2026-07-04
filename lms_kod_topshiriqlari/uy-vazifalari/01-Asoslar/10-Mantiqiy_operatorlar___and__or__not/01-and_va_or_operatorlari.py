@@ -1,1 +1,2 @@
-print("fa sdf")
+print(False)
+print(True)
