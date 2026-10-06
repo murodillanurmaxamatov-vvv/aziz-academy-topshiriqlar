@@ -1,4 +1,6 @@
 a = int(input())
 b = int(input())
-print(a * b)
-print(a * b + a * b // 10)
+
+x = a * b
+print(x)
+print(x + x // 10)
