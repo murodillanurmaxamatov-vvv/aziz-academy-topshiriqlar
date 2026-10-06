@@ -1,4 +1,7 @@
 a = int(input())
 b = int(input())
-print(a * b)
-print((a + b) * 2)
+
+x = a * b
+z = (a + b) * 2
+print(x)
+print(z)
