@@ -1,2 +1,2 @@
-x = input()
-print(f'Salom, {x}!')
+a = input()
+print(f"Salom, {a}!")
