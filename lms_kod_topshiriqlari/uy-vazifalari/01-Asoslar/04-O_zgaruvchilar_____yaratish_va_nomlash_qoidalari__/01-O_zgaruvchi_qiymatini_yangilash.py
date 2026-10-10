@@ -1,2 +1,2 @@
-print('Boshlandi')
-print('Tugadi')
+print("Boshlandi")
+print("Tugadi")
