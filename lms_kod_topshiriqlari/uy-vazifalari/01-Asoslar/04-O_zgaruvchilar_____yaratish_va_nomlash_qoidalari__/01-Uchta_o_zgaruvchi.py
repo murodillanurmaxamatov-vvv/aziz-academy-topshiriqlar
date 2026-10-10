@@ -1,3 +1,3 @@
 print("Ism: Aziz")
 print("Kurs: Python")
-print('Modul: Asoslar')
+print("Modul: Asoslar")
