@@ -1,0 +1,12 @@
+def nor(s):
+    toza = ""
+    
+    for ch in s.lower():
+        if ch.isalpha():
+            toza += ch
+    return toza
+def   is_pa(s):
+    t = nor(s)
+    return t == t[::-1]
+s = input()
+print(is_pa(s))
