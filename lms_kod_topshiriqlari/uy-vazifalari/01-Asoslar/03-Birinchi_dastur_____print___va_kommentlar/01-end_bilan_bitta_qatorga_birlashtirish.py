@@ -1,1 +1,2 @@
-print('Salom dunyo!')
+print("Salom", end=" ")
+print("dunyo!")
