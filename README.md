@@ -6,30 +6,30 @@
 
 `████████░░░░░░░░░░░░` **42%**  (75/179 mavzu)
 
-- ⭐ Jami ball: **92038**
-- 📤 GitHubga yuborilgan topshiriqlar: **1316**
+- ⭐ Jami ball: **92714**
+- 📤 GitHubga yuborilgan topshiriqlar: **1317**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **Modullarga bo'lish — bitta faylda bir nechta funksiya**
+**MODUL 7 — Modullar va Fayllar** → **Modullarga bo'lish - bitta faylda bir nechta funksiya**
 
-➡️ Keyingi mavzu: *O'z modulini yaratish ⭐ — import qilish*
+➡️ Keyingi mavzu: *O'z modulini yaratish ⭐ - import qilish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Modullarga bo'lish — bitta faylda bir nechta funksiya  ← yetgan joyingiz
-- ⬜ O'z modulini yaratish ⭐ — import qilish
-- ⬜ import turlari — import x vs from x import y
-- ⬜ math moduli — matematik funksiyalar
-- ⬜ random moduli ⭐ — tasodifiy sonlar, tanlash, aralashtirish
-- ⬜ datetime moduli — sana va vaqt bilan ishlash
-- ⬜ time va benchmark — vaqtni o'lchash, dastur tezligi
-- ⬜ Fayllar — 1 ⭐ — open, read, write, rejimlar (r, w, a)
-- ⬜ Fayllar — 2 ⭐ — with va context manager
-- ⬜ CSV bilan ishlash — csv moduli, jadval ma'lumotlari
-- ⬜ JSON bilan ishlash ⭐ — json moduli, saqlash/o'qish
-- ⬜ 🛠 Loyiha: To-Do / Telefon kitobcha — fayl asosida CRUD
+- ✅ Modullarga bo'lish - bitta faylda bir nechta funksiya  ← yetgan joyingiz
+- ⬜ O'z modulini yaratish ⭐ - import qilish
+- ⬜ import turlari - import x vs from x import y
+- ⬜ math moduli - matematik funksiyalar
+- ⬜ random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish
+- ⬜ datetime moduli - sana va vaqt bilan ishlash
+- ⬜ time va benchmark - vaqtni o'lchash, dastur tezligi
+- ⬜ Fayllar - 1 ⭐ - open, read, write, rejimlar (r, w, a)
+- ⬜ Fayllar - 2 ⭐ - with va context manager
+- ⬜ CSV bilan ishlash - csv moduli, jadval ma'lumotlari
+- ⬜ JSON bilan ishlash ⭐ - json moduli, saqlash/o'qish
+- ⬜ 🛠 Loyiha: To-Do / Telefon kitobcha - fayl asosida CRUD
 - ⬜ os va pathlib bilan fayl tizimida yurish
 - ⬜ Konfiguratsiya fayllari, log fayl tushunchasi
 - ⬜ Fayl kodirovkasi, UTF-8, oddiy muammolar
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-13 13:35</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-15 13:45</sub>
