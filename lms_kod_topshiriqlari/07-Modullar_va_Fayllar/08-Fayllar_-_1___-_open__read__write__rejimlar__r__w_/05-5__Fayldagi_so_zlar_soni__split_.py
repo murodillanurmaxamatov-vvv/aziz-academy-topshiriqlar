@@ -1,0 +1,8 @@
+matn = input()
+f = open("task5.txt", "w")
+f.write(matn)
+f.close()
+f = open("task5.txt", "r")
+kontent = f.read()
+f.close()
+print(len(kontent.split()))
