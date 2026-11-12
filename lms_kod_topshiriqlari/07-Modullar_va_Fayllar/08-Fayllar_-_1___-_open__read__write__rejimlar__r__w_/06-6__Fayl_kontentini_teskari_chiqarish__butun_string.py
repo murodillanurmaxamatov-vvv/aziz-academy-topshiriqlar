@@ -1,0 +1,8 @@
+s = input()
+f = open("task6.txt", "w")
+f.write(s)
+f.close()
+f = open("task6.txt", "r")
+kontent = f.read()
+f.close()
+print(kontent[::-1])
