@@ -1,0 +1,8 @@
+matn = input()
+f = open("task11.txt","w")
+f.write(matn)
+f.close()
+f = open("task11.txt", "r")
+kontent = f.read()
+f.close()
+print(kontent.upper())
